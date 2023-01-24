@@ -7,8 +7,8 @@ import Halfling from './Halfling';
 export default Race;
 
 export {
-    Dwarf,
-    Orc,
-    Elf,
-    Halfling,
-}
+  Dwarf,
+  Orc,
+  Elf,
+  Halfling,
+};
